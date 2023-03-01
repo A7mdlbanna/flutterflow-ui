@@ -38,7 +38,7 @@ dependencies:
   emoji_flag_converter: 1.1.0
   fl_chart: 0.50.6
   flutter_credit_card: 2.0.0
-  flutter_google_places: 0.3.0
+  flutter_google_places_hoc081098: 0.3.0
   font_awesome_flutter: 10.1.0
   google_api_headers:
   google_fonts: ^4.0.1
